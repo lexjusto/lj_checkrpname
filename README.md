@@ -1,7 +1,7 @@
 # sa-mp-true-rp-nickname
 
 ## (ENG):
-Just a piece of code on nearly 99.8% weed out players with nicknames are not relevant to the RolePlay process.
+Just a piece of code on nearly 99.8% weed out players with nicknames are not relevant to the RolePlay mode.
 
 Features:
 
@@ -15,7 +15,7 @@ Features:
 (Warning! This is not finished code that you can use in any of your project, this code sometimes requires some changes of your mod game mode!)
 
 ## (RUS):
-Просто кусочек кода, может практически на 99.8% отсеять игроков с никами не соответствующими RolePlay процессу.
+Просто кусочек кода, может практически на 99.8% отсеять игроков с никами не соответствующими RolePlay режиму.
 
 Особенности:
 
