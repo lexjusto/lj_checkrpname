@@ -1,7 +1,7 @@
-# sa-mp-true-rp-nickname
+# lj_checkrpname.inc
 
 ## (RUS):
-Просто кусочек кода, может практически на 99.8% отсеять игроков с никами не соответствующими RolePlay режиму.
+Просто кусочек кода, может практически на 99.8% отсеять игроков с никами не соответствующими RolePlay режиму (SA-MP).
 
 Использование (пример):
 
@@ -28,7 +28,7 @@ public OnPlayerConnect(playerid) // default SA-MP function
 (Предупреждение! Это не готовый код который вы можете использовать в любом вашем проекте, данный код иногда требует некоторых изменений именно мод ваш игровой режим!)
 
 ## (ENG):
-Just a piece of code on nearly 99.8% weed out players with nicknames are not relevant to the RolePlay mode.
+Just a piece of code on nearly 99.8% weed out players with nicknames are not relevant to the RolePlay mode (SA-MP).
 
 Usage (example):
 
